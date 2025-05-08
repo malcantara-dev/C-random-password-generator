@@ -1,3 +1,13 @@
+/*
+ * Programa: Password_Generator.c
+ * Descrição: Este programa gera senhas pseudo-aleatórias de diferentes tipos
+ *            (letras minúsculas, maiúsculas, números e caracteres especiais)
+ *            com base na escolha do usuário. Também classifica a força da senha gerada.
+ *
+ * Autores: Henrique Bicudo Paulino da Silva & Matheus de Alcantara Teixeira
+ * Data da última modificação: 08/05/2025
+ */
+
 // Importacao de bibliotecas (dependecias)
 #include <stdio.h>	//Entradas/Saidas
 #include <stdlib.h>	//Manipulacao de Memoria, Funcao System e Aleatorio
